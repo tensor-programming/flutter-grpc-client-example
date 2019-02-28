@@ -1,16 +1,11 @@
-# grpc_chat_example
+# flutter-grpc-client-example
 
-A new Flutter project.
+### In this tutorial, we take a look at the basic of building a gRPC client in Flutter/Dart.  We use an existing Go gRPC service to do this.  
 
-## Getting Started
+### To build this application, you will need the latest version of the flutter SDK.  
+### Check out the Youtube Tutorial for this [Dart Flutter Program](https://youtu.be/Vd9sV8_uDrQ). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
-This project is a starting point for a Flutter application.
+### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
-A few resources to get you started if this is your first Flutter project:
+### Our [Twitter](https://twitter.com/TensorProgram), our [facebook](https://www.facebook.com/Tensor-Programming-1197847143611799/) and our [Steemit](https://steemit.com/@tensor).
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
